@@ -1,7 +1,7 @@
-# ToDO Application
+# ToDo Application
 
 A new Flutter project.
-This is My Fiest project with Flutter.
+This is My First project with Flutter.
 
 ## Getting Started
 
